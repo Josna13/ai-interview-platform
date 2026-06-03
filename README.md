@@ -61,6 +61,4 @@ AI-Powered Technical Interview Platform is a web-based application that simulate
 
 To help students and job seekers prepare for technical interviews through AI-powered mock interviews, coding assessments, behavior analysis, and detailed feedback.
 
-## Author
 
-Developed as an Engineering Project.
