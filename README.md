@@ -245,6 +245,4 @@ The primary objective of this project is to help students and job seekers prepar
 
 ---
 
-## 12. License
 
-This project is developed for educational and academic purposes.
